@@ -3,7 +3,7 @@ Code for creating a right click context menu item in both Mac and PC for retriev
 
 The main purpose of this project is to create a way to retrieve server links for files/folders via a context menu item.  Typically, what is returned is either an smb or afp link on macOS or the full drive letter path on Windows.
 
-Before you begin to the follow the instructiosn below, please modify the Python, vbscript, and batch script as needed to work with your environment.
+Before you begin to the follow the instructions below, please modify the Python, vbscript, and batch script as needed to work with your environment.
 
 ### macOS Instructions
 1. Open Automator and create a Service or Quick Action project.
